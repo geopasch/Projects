@@ -16,4 +16,3 @@ Original Dataset provided by sofifa.com. A Subset was used for this project (fif
 - Project 3: Summer Olympic Games Dashboard
 
 Original dataset retrieved from SQL for Data Science - Capstone Project provided by Coursera.
-The subset used is the file named athletes_medals.xml.
